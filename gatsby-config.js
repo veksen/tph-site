@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/tph-site',
   siteMetadata: {
     title: 'The Programmer\'s hangout',
   },
