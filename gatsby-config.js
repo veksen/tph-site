@@ -4,6 +4,7 @@ module.exports = {
     title: 'The Programmer\'s hangout',
   },
   plugins: [
+    'gatsby-plugin-styled-components',
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-remark',
     {
